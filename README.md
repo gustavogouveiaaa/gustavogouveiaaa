@@ -7,10 +7,6 @@
 </div>
 -->
 
- <div>
-  <a href="https://github.com/gustavogouveiaaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogouveiaaa&layout=compact&langs_count=16&theme=dracula"/>
-</div>
   
 <div align="center">
   <a href="https://github.com/Camilly28">

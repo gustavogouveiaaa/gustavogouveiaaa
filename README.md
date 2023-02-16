@@ -1,17 +1,10 @@
 ### Olá, sou Gustavo Gouveia👋
-<!--
-<div>
-  <a href="https://github.com/gustavogouveiaaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexiagregorio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexiagregorio&layout=compact&langs_count=16&theme=dracula"/>
-</div>
--->
 
-  
-<div align="center">
-  <a href="https://github.com/gustavogouveiaaa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gustavogouveiaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogouveiaaa&layout=compact&langs_count=7&theme=tokyonight"/>
+
+
+<div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gustavogouveiaaa&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gustavogouveiaaa&layout=compact&theme=dracula">
 </div>
     
 <div style="display: inline_block"><br>

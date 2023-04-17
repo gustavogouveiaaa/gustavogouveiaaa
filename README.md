@@ -42,10 +42,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
-<div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=gustavogouveiaaa&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=gustavogouveiaaa&layout=compact&theme=dracula">
-</div>
+
     
 
 
